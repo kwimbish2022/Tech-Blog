@@ -1,0 +1,23 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "Allows users to create accounts, post blogs posts, edit/delete their posts, and comment on other users' posts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwimbish2022/Tech-Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwimbish2022/Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/kwimbish2022/Tech-Blog#readme",
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "sequelize": "^6.21.3"
+  }
+}
