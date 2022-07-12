@@ -2,7 +2,7 @@
   "name": "tech-blog",
   "version": "1.0.0",
   "description": "Allows users to create accounts, post blogs posts, edit/delete their posts, and comment on other users' posts.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,7 +17,13 @@
   },
   "homepage": "https://github.com/kwimbish2022/Tech-Blog#readme",
   "dependencies": {
-    "handlebars": "^4.7.7",
-    "sequelize": "^6.21.3"
+    "bcrypt": "^5.0.0",
+    "connect-session-sequelize": "^7.0.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "express-session": "^1.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
   }
 }
