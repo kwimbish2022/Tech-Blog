@@ -19,7 +19,7 @@ Tech used 1. Javascript 2. Express.js 3. Handlebars 4. Heroku
 
 ## Usage
 
-<-- INSERT LINK HERE -->
+https://git.heroku.com/kwimbish2022-blog.git
 
 ## License
 
